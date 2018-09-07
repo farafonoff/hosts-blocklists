@@ -72537,3 +72537,7 @@
 :: zzz7.52896368.com
 0.0.0.0 zzzzz4.52896368.com
 :: zzzzz4.52896368.com
+0.0.0.0 ssp.rambler.ru
+:: ssp.rambler.ru
+0.0.0.0 dsp-rambler.ru
+:: dsp-rambler.ru
